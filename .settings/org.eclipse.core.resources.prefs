@@ -1,0 +1,7 @@
+eclipse.preferences.version=1
+encoding//src/Controller/ChatTableStateServlet.java=UTF-8
+encoding//src/Controller/CheckLoginServlet.java=UTF-8
+encoding//src/Controller/GetChatTableStateServlet.java=UTF-8
+encoding//src/Controller/GetUserTableStateServlet.java=UTF-8
+encoding//src/Controller/RegisterServlet.java=UTF-8
+encoding//src/Controller/UserTableStateServlet.java=UTF-8
